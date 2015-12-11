@@ -1,2 +1,4 @@
 # BioScience_Holistics
-All files relating to www.lacistemataceae.org
+
+
+Within this repository is all files, data analysis, interactive graphics, and slides relating to www.lacistemataceae.org.
